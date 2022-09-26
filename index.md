@@ -2,32 +2,29 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+//Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Welcome, 
+I'm currently busy with [DokusCore](https://dokuscore.com/), a RedM Framework build for quality with love.
+This is an open source project, you're welcome to contribute.
 
-[Link to another page](./another-page.html).
+I'm also a student at [42Network](https://www.42network.org/).
 
-There should be whitespace between paragraphs.
+# About me
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I fell in love by coding has an hobby, now I aim for coding to be my life.
+Self-educated and curious, I love to break down new challenges.
 
-# Header 1
+## How I'm feeling
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+> Love what you are learning to do...
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Success is no accident!
 
-### Header 3
+### Where have I been
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+console.log("Skills in development:/n")
+console.log("lua, html, css, js, c, unix, api usage, database and system administration")
 ```
 
 ```ruby
