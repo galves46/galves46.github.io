@@ -7,7 +7,7 @@ layout: default
 >
 > Success is no accident!
 
-I fell in love by coding has an hobby, now I aim for coding to be my life.
+I fell in love with coding as an hobby, now I aim for coding to be my life.
 
 Self-educated and curious, I love to break down new challenges.
 
