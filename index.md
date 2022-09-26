@@ -3,9 +3,12 @@ layout: default
 ---
 
 
+
 > Love what you are learning to do...
 >
 > Success is no accident!
+
+
 
 I fell in love with coding as an hobby, now I aim for coding to be my life.
 
@@ -15,6 +18,7 @@ I'm currently busy with [DokusCore](https://dokuscore.com/), a RedM Framework bu
 This is an open source project, you're welcome to contribute.
 
 I'm also a student at [42Network](https://www.42network.org/).
+
 
 
 ```js
