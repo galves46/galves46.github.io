@@ -78,3 +78,4 @@ Hey man! This is the end of the page, keep moving!
 Bye bye ;)
 ```
 [Log In](./another-page.html)
+[Log Out](../)
