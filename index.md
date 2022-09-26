@@ -4,9 +4,14 @@ layout: default
 
 
 
+
+
 > Love what you are learning to do...
 >
 > Success is no accident!
+
+
+
 
 
 
@@ -21,9 +26,16 @@ I'm also a student at [42Network](https://www.42network.org/).
 
 
 
-```js
-console.log("Skills in development:/n")
-console.log("lua, html, css, js, c, unix, api usage, database, arduino and system administration")
+
+
+```c
+#include <stdio.h>
+int main{
+
+printf("Skills in development:/n")
+printf("lua, html, css, js, c, unix, api usage, database, arduino and system administration")
+
+}
 ```
 
 ## Areas of interest:
