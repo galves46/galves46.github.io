@@ -2,14 +2,14 @@
 layout: default
 ---
 
-//Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 Welcome, 
+
 I'm currently busy with [DokusCore](https://dokuscore.com/), a RedM Framework build for quality with love.
 This is an open source project, you're welcome to contribute.
 
 I'm also a student at [42Network](https://www.42network.org/).
 
-# About me
+## About me
 
 I fell in love by coding has an hobby, now I aim for coding to be my life.
 Self-educated and curious, I love to break down new challenges.
@@ -20,101 +20,56 @@ Self-educated and curious, I love to break down new challenges.
 >
 > Success is no accident!
 
-### Where have I been
+## Where have I been
 
 ```js
 console.log("Skills in development:/n")
 console.log("lua, html, css, js, c, unix, api usage, database and system administration")
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Languages?
 
-#### Header 4
+| Language     | Talking   | Reading | Understanding |
+|:-------------|:----------|:--------|:--------------|
+| Portuguese   | good      | good    | good          |
+| English      | good      | good    | good          |
+| Spanish      | good      | good    | good          |
+| French       | bad       | bad     | bad           |
+| Russian      | priviet   | niet    | arashov       |
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+## There's a horizontal rule below this why?
 
 * * *
 
-### Here is an unordered list:
+## Curently exploring:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   SmartContrats
+*   Blockchain
+*   Web3
+*   just normal stuff
 
-### And an ordered list:
+## Favourite things:
 
 1.  Item one
 1.  Item two
 1.  Item three
 1.  Item four
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
+<dt>Aka</dt>
+<dd>Theodore Rockford</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>Yes</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>Planet Earth</dd>
+<dt>Location</dt>
+<dd>WorldWideWeb</dd>
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+Hey man! This is the end of the page, keep moving!
 ```
 
 ```
-The final element.
+Bye bye ;)
 ```
