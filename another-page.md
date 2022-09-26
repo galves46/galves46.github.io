@@ -2,8 +2,9 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to the login page
 
+This is totally secret centent
 _yay_
 
 [back](./)
