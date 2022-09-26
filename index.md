@@ -2,26 +2,24 @@
 layout: default
 ---
 
-Welcome, 
 
 > Love what you are learning to do...
 >
 > Success is no accident!
+
+I fell in love by coding has an hobby, now I aim for coding to be my life.
+
+Self-educated and curious, I love to break down new challenges.
 
 I'm currently busy with [DokusCore](https://dokuscore.com/), a RedM Framework build for quality with love.
 This is an open source project, you're welcome to contribute.
 
 I'm also a student at [42Network](https://www.42network.org/).
 
-## ./WhoAmI
-
-I fell in love by coding has an hobby, now I aim for coding to be my life.
-Self-educated and curious, I love to break down new challenges.
-
 
 ```js
 console.log("Skills in development:/n")
-console.log("lua, html, css, js, c, unix, api usage, database and system administration")
+console.log("lua, html, css, js, c, unix, api usage, database, arduino and system administration")
 ```
 
 ## Areas of interest:
@@ -31,6 +29,7 @@ console.log("lua, html, css, js, c, unix, api usage, database and system adminis
 *   Web3
 *   Trains
 
+## Comunication skills:
 
 | Language     | Talking   | Reading | Understanding |
 |:-------------|:----------|:--------|:--------------|
