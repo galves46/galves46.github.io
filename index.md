@@ -32,7 +32,7 @@ I'm also a student at [42Network](https://www.42network.org/).
 #include <stdio.h>
 int main{
 
-printf("Skills in development:/n")
+printf("Skills in development:\n")
 printf("lua, html, css, js, c, unix, api usage, database, arduino and system administration")
 
 }
